@@ -43,7 +43,7 @@
 <p align="center">
 
 <a href="https://github.com/Ajit133">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajit133&repo=portfolio&theme=tokyonight" />
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Ajit133&repo=portfolio&theme=tokyonight](https://quickhire-frontend-xi.vercel.app/)" />
 </a>
 
 <a href="https://github.com/Ajit133">
