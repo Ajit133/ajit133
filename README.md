@@ -10,9 +10,11 @@
 
 ## 👨‍💻 About Me
 
-* 🌱 I’m currently learning **HTML, CSS, JavaScript**
-* 💻 I love building **web projects**
-* 🎯 Goal: Become a **Professional Software Developer**
+* 🚀 I’m currently working with **HTML, CSS, Tailwind CSS**
+* ⚛️ Frontend: **React, Next.js, Redux, Redux Toolkit**
+* 🖥️ Backend: **Node.js, PHP, Laravel**
+* 💻 I love building **modern web applications**
+* 🎯 Goal: Become a **Professional Full Stack Developer**
 * 📍 From **Bangladesh**
 
 ---
