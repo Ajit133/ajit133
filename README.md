@@ -22,8 +22,9 @@
 ## 🛠️ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,laravel,php,tailwind css" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,nodejs,php,laravel,git,github,vscode" />
 </p>
+
 
 ---
 
